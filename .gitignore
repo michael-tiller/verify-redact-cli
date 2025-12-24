@@ -1,0 +1,23 @@
+# Python bytecode / caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Packaging / build outputs
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vs/
+
+# Logs
+*.log
