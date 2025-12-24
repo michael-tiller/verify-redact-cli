@@ -9,6 +9,8 @@ A minimal, defensive CLI tool that verifies whether a supposedly redacted PDF ac
 - Optionally performs OCR to detect visually recoverable text
 - CI-friendly with deterministic exit codes
 
+![Screenshot](docs/screenshot.png)
+
 ## Key Features
 
 - **Comprehensive extraction**: Scans content streams, annotations, form fields, metadata, hidden layers (OCG), embedded objects, XObjects, and raw PDF streams
@@ -196,5 +198,5 @@ You can view more information on the samples here: [SAMPLES.md](docs/SAMPLES.md)
 
 ## License
 
-MIT
+MIT License - see [LICENSE](./LICENSE.md) file for details.
 
